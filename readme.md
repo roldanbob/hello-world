@@ -14,6 +14,5 @@ Good-bye.
 
 Hello.
 
-*Now do you like my hat?*
+*Now just hang on a minute, Friend ... Now you say that you like my hat?*
 
-No, I do not. I do not like your hat.
